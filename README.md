@@ -1,2 +1,7 @@
-# grav-theme-bmfw
-This is a simple grav theme I made based off of the websites like http://bettermotherfuckingwebsite.com/ , http://motherfuckingwebsite.com/ , &amp; https://bestmotherfucking.website/
+# Bmfw Theme
+
+The **Bmfw** Theme is for [Grav CMS](http://github.com/getgrav/grav).  This README.md file should be modified to describe the features, installation, configuration, and general usage of this theme.
+
+## Description
+
+A theme based off of the bestmotherf******websites
