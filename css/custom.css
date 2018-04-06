@@ -3,9 +3,9 @@
  }
  
  body {
-  max-width: 60%;
-  margin: 10px auto;
-    padding: 0 0px;
+  max-width: 710px;
+  margin: 15px auto;
+    padding: 0 5px;
   font: 16px/1.5 -apple-system, BlinkMacSystemFont, /* MacOS and iOS */
                'avenir next', avenir, /* MacOS and iOS */
                'Segoe UI', /* Windows */
